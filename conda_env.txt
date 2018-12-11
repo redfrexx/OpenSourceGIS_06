@@ -1,0 +1,11 @@
+g.proj -p
+
+conda create -n ors python=3.6 
+conda activate ors
+conda install shapely certifi=2018.10.15
+pip install openrouteservice ortools
+conda install -c conda-forge folium
+conda install nb_conda_kernels
+pip install geopy
+
+
