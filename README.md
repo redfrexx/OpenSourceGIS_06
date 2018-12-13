@@ -37,3 +37,7 @@ In this exercise, we will use juypter notebook to work with Python. Here are the
   `jupyter notebook`
   
 Your browser should open automatically directing you to localhost:8888/tree where your jupyter notebook server is running.
+
+## Closing the jupyter notebook
+1. Close the browser tabs
+2. In the "Anaconda Prompt" with your running jupyter notebook server, press CTRL + C to abort the process. 
