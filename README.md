@@ -26,6 +26,8 @@ In this exercise, you will learn how to use the Open Route Serice and Ohsome API
   
 ## Starting the jupyter notebook 
 
+In this exercise, we will use juypter notebook to work with Python. Here are the steps to start the jupyter notebook. 
+
 1. Make Firefox or Chrome your default Web Browser: For instructions on how to do that, see [here](https://support.microsoft.com/en-ca/help/4028606/windows-10-change-your-default-browser).
 2. Start the Jupyter notebook server:
 
