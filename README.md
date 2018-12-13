@@ -1,4 +1,4 @@
-# OpenSourceGIS_06
+# OpenSourceGIS - Exercise 6: Open Route Service and Ohsome API
 
 In this exercise, you will learn how to use the Open Route Serice and Ohsome APIs using Python. Therefore, we need to set up the right python environment.  
 
