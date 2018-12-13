@@ -29,8 +29,11 @@ In this exercise, you will learn how to use the Open Route Serice and Ohsome API
 In this exercise, we will use juypter notebook to work with Python. Here are the steps to start the jupyter notebook. 
 
 1. Make Firefox or Chrome your default Web Browser: For instructions on how to do that, see [here](https://support.microsoft.com/en-ca/help/4028606/windows-10-change-your-default-browser).
-2. Start the Jupyter notebook server:
-
+2. Open the "Anaconda Prompt" and move to the main folder of this repository. 
+3. Activate the 'ors' Python environment:
+ `activate ors`
+ 
+4. Start the Jupyter notebook server:
   `jupyter notebook`
   
-Your browser should be opened automatically directing you to localhost:8888
+Your browser should open automatically directing you to localhost:8888/tree where your jupyter notebook server is running.
