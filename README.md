@@ -22,7 +22,7 @@ In this exercise, you will learn how to use the Open Route Serice and Ohsome API
 
 5. Install the openrouteservice and geopy packages
 
-  `pip install openrouteservice geopy`
+  `pip install openrouteservice ortools geopy`
   
 ## Starting the jupyter notebook 
 
