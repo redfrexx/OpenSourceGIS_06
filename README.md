@@ -22,7 +22,7 @@ In this exercise, you will learn how to use the Open Route Serice and Ohsome API
 
 5. Install the openrouteservice and geopy packages
 
-  `conda install openrouteservice geopy`
+  `pip install openrouteservice geopy`
   
 ## Starting the jupyter notebook 
 
